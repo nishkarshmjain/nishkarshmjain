@@ -11,7 +11,7 @@
 
 - 📫 Reach out to me on **nishkarshm.jain@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zHu1z3wTwCTUM65mQaug8SEalgqp-yQo/edit?usp=sharing&ouid=108898213757925520973&rtpof=true&sd=true](https://docs.google.com/document/d/1zHu1z3wTwCTUM65mQaug8SEalgqp-yQo/edit?usp=sharing&ouid=108898213757925520973&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1zHu1z3wTwCTUM65mQaug8SEalgqp-yQo/edit?usp=sharing&ouid=108898213757925520973&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
