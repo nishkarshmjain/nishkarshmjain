@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Big data NLP projects**
 
-- 👨‍💻 All of my projects are available at [https://nishkarshmjain.github.io/](https://nishkarshmjain.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nishkarshmjain.github.io/)
 
 - 💬 Ask me about **Data**
 
