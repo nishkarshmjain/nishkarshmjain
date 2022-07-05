@@ -5,7 +5,7 @@
 
 - 👯 I have worked into **Banking & Insurance | Media[OTT] | Consulting Domains**
 
-- 👯 I’m looking to collaborate on **Big data NLP projects**
+- 👯 I’m looking to collaborate on **Snowflake/AWS Data Engineering/Solutioning projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nishkarshmjain.github.io/)
 
