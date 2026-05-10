@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nishkarsh</h1>
-<h3 align="center">A passionate Data Enthusiast from India</h3>
+<h1 align="left">Hi! 👋, I'm Nishkarsh</h1>
+<h3 align="left">🚀 Technical Architect | Sales Engineering Lead</h3>
 
 - 🔭 I’m currently working on **Snowflake DWH and Business Analyst role**
-
 - 👯 I have worked into **Banking & Insurance | Media[OTT] | Consulting Domains**
-
-- 👯 I’m looking to collaborate on **Snowflake/AWS Data Engineering/Solutioning projects**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://nishkarshmjain.github.io/)
 
 - 💬 Ask me about **Data**
