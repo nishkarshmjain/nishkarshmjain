@@ -28,16 +28,15 @@ Helping enterprises transform complex data ecosystems into scalable, business-dr
 
 ## 📜 Certifications
 
-- ❄️ Snowflake SnowPro Advanced Architect
-- ❄️ Snowflake SnowPro Core
-- ☁️ Microsoft Certified Azure Data Scientist Associate
+- Snowflake SnowPro Advanced Architect
+- Snowflake SnowPro Core
+- Microsoft Certified Azure Data Scientist Associate
 
 ---
 
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
