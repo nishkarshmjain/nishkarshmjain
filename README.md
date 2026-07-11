@@ -8,7 +8,7 @@ Helping enterprises transform complex data ecosystems into scalable, business-dr
 
 ## 🏆 Highlights
 
-- 📈 Supported 100+ enterprise engagements globally
+- 📈 Supported 250+ enterprise engagements globally
 - 🌍 Worked across Financial Services, Healthcare, Retail, Manufacturing & Technology
 - 💰 Contributed to multimillion-dollar enterprise opportunities
 - 👥 Helped scale Sales Engineering functions and presales processes
